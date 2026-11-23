@@ -6,3 +6,8 @@ int main() {
    std::string streetAddress = "7442 Evergreen Street";
    std::string city = "Springfield";
    std::string zipCode = "43354";
+   std::cout << "First Name: " << firstName << std::endl;
+   std::cout << "Last Name: " << lastName << std::endl;
+   std::cout << "Street Address: " << streetAddress << std::endl;
+   std::cout << "City: " << city << std::endl;
+   std::cout << "Zip Code: " << zipCode << std::endl;
