@@ -1,3 +1,8 @@
 #include <iostream>
 #include <string>
 int main() {
+   std::string firstName = "Homer";
+   std::string lastName = "Simpson";
+   std::string streetAddress = "7442 Evergreen Street";
+   std::string city = "Springfield";
+   std::string zipCode = "43354";
