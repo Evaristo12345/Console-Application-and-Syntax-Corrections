@@ -11,3 +11,5 @@ int main() {
    std::cout << "Street Address: " << streetAddress << std::endl;
    std::cout << "City: " << city << std::endl;
    std::cout << "Zip Code: " << zipCode << std::endl;
+   return 0;
+}
